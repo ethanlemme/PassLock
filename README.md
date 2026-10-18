@@ -1,2 +1,2 @@
-# PassLock
-A rudimentary password encryptor and manager
+# Detect-a-Tron
+A rudimentary malware detector for PCs running Windows OS.
